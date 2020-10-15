@@ -3,7 +3,13 @@ package com.gul.git;
 public class GitPractisDemo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		String good = "nice";
+		if (good=="nice") {
+			System.out.println("code is good");
+		} else {
+			System.out.println("code is no good");
+		}
+
 
 	}
 
